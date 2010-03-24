@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="3">
+  <includeClasses>
+    <classEntry path="flexlib.baseClasses.AccordionBase"/>
+    <classEntry path="flexlib.baseClasses.PopUpMenuButtonBase"/>
+    <classEntry path="flexlib.baseClasses.SliderBase"/>
+    <classEntry path="flexlib.charts.HorizontalAxisDataSelector"/>
+    <classEntry path="flexlib.containers.AdvancedForm"/>
+    <classEntry path="flexlib.containers.ButtonScrollingCanvas"/>
+    <classEntry path="flexlib.containers.DockableToolBar"/>
+    <classEntry path="flexlib.containers.Docker"/>
+    <classEntry path="flexlib.containers.DragScrollingCanvas"/>
+    <classEntry path="flexlib.containers.FlowBox"/>
+    <classEntry path="flexlib.containers.FlowContainer"/>
+    <classEntry path="flexlib.containers.HAccordion"/>
+    <classEntry path="flexlib.containers.PopUpToolBar"/>
+    <classEntry path="flexlib.containers.SuperTabNavigator"/>
+    <classEntry path="flexlib.containers.VAccordion"/>
+    <classEntry path="flexlib.containers.WindowShade"/>
+    <classEntry path="flexlib.containers.accordionClasses.AccordionHeader"/>
+    <classEntry path="flexlib.containers.accordionClasses.AccordionHeaderLocation"/>
+    <classEntry path="flexlib.containers.accordionClasses.CanvasButtonAccordionHeader"/>
+    <classEntry path="flexlib.containers.utilityClasses.AdobeFlowLayout"/>
+    <classEntry path="flexlib.containers.utilityClasses.FlowLayout"/>
+    <classEntry path="flexlib.controls.Base64Image"/>
+    <classEntry path="flexlib.controls.CanvasButton"/>
+    <classEntry path="flexlib.controls.ConvertibleTreeList"/>
+    <classEntry path="flexlib.controls.Fire"/>
+    <classEntry path="flexlib.controls.HSlider"/>
+    <classEntry path="flexlib.controls.Highlighter"/>
+    <classEntry path="flexlib.controls.IconLoader"/>
+    <classEntry path="flexlib.controls.ImageMap"/>
+    <classEntry path="flexlib.controls.PromptingTextArea"/>
+    <classEntry path="flexlib.controls.PromptingTextInput"/>
+    <classEntry path="flexlib.controls.ScrollableArrowMenu"/>
+    <classEntry path="flexlib.controls.ScrollableMenu"/>
+    <classEntry path="flexlib.controls.ScrollableMenuBar"/>
+    <classEntry path="flexlib.controls.ScrollablePopUpMenuButton"/>
+    <classEntry path="flexlib.controls.SuperTabBar"/>
+    <classEntry path="flexlib.controls.TreeGrid"/>
+    <classEntry path="flexlib.controls.VSlider"/>
+    <classEntry path="flexlib.controls.VerticalMenuBar"/>
+    <classEntry path="flexlib.controls.area"/>
+    <classEntry path="flexlib.controls.iconLoaderClasses.IIconParser"/>
+    <classEntry path="flexlib.controls.iconLoaderClasses.IcnsParser"/>
+    <classEntry path="flexlib.controls.iconLoaderClasses.IcoParser"/>
+    <classEntry path="flexlib.controls.iconLoaderClasses.IconParserFactory"/>
+    <classEntry path="flexlib.controls.menuClasses.VerticalMenuItemRenderer"/>
+    <classEntry path="flexlib.controls.sliderClasses.ExtendedSlider"/>
+    <classEntry path="flexlib.controls.sliderClasses.SliderThumb"/>
+    <classEntry path="flexlib.controls.tabBarClasses.SuperTab"/>
+    <classEntry path="flexlib.controls.textClasses.Finder"/>
+    <classEntry path="flexlib.controls.textClasses.StringBoundaries"/>
+    <classEntry path="flexlib.controls.treeGridClasses.TreeGridColumn"/>
+    <classEntry path="flexlib.controls.treeGridClasses.TreeGridItemRenderer"/>
+    <classEntry path="flexlib.controls.treeGridClasses.TreeGridListData"/>
+    <classEntry path="flexlib.css.CSSPropertyInjector"/>
+    <classEntry path="flexlib.events.ImageMapEvent"/>
+    <classEntry path="flexlib.events.SuperTabEvent"/>
+    <classEntry path="flexlib.events.TabReorderEvent"/>
+    <classEntry path="flexlib.events.WindowShadeEvent"/>
+    <classEntry path="flexlib.mdi.containers.MDICanvas"/>
+    <classEntry path="flexlib.mdi.containers.MDIResizeHandle"/>
+    <classEntry path="flexlib.mdi.containers.MDIWindow"/>
+    <classEntry path="flexlib.mdi.containers.MDIWindowControlsContainer"/>
+    <classEntry path="flexlib.mdi.containers.MDIWindowState"/>
+    <classEntry path="flexlib.mdi.effects.IMDIEffectsDescriptor"/>
+    <classEntry path="flexlib.mdi.effects.MDIEffectsDescriptorBase"/>
+    <classEntry path="flexlib.mdi.effects.effectClasses.MDIGroupEffectItem"/>
+    <classEntry path="flexlib.mdi.effects.effectsLib.MDILinearEffects"/>
+    <classEntry path="flexlib.mdi.effects.effectsLib.MDIRelationalEffects"/>
+    <classEntry path="flexlib.mdi.effects.effectsLib.MDIVistaEffects"/>
+    <classEntry path="flexlib.mdi.events.MDIEffectEvent"/>
+    <classEntry path="flexlib.mdi.events.MDIManagerEvent"/>
+    <classEntry path="flexlib.mdi.events.MDIWindowEvent"/>
+    <classEntry path="flexlib.mdi.managers.MDIManager"/>
+    <classEntry path="flexlib.mdi.utils.GraphicsUtil"/>
+    <classEntry path="flexlib.skins.EnhancedButtonSkin"/>
+    <classEntry path="flexlib.skins.SliderHighlightSkin"/>
+    <classEntry path="flexlib.skins.SliderThumbHighlightSkin"/>
+    <classEntry path="flexlib.skins.SliderThumbNoGripHighlightSkin"/>
+    <classEntry path="flexlib.skins.TabPopUpButtonSkin"/>
+  </includeClasses>
+  <includeResources>
+    <resourceEntry destPath="flexlib/assets/defaultTreeAssets.fla" sourcePath="flexlib/assets/defaultTreeAssets.fla"/>
+    <resourceEntry destPath="manifest.xml" sourcePath="manifest.xml"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/maximizeButton.png" sourcePath="flexlib/mdi/assets/img/maximizeButton.png"/>
+    <resourceEntry destPath="flexlib/containers/SuperTabNavigator.png" sourcePath="flexlib/containers/SuperTabNavigator.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeCursor.png" sourcePath="flexlib/mdi/assets/img/resizeCursor.png"/>
+    <resourceEntry destPath="flexlib/containers/HAccordion.png" sourcePath="flexlib/containers/HAccordion.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/restoreButton.png" sourcePath="flexlib/mdi/assets/img/restoreButton.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeCursorV.gif" sourcePath="flexlib/mdi/assets/img/resizeCursorV.gif"/>
+    <resourceEntry destPath="flexlib/containers/ButtonScrollingCanvas.png" sourcePath="flexlib/containers/ButtonScrollingCanvas.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/minimizeButton.png" sourcePath="flexlib/mdi/assets/img/minimizeButton.png"/>
+    <resourceEntry destPath="flexlib/assets/dragStripIcon.png" sourcePath="flexlib/assets/dragStripIcon.png"/>
+    <resourceEntry destPath="flexlib/controls/SuperTabBar.png" sourcePath="flexlib/controls/SuperTabBar.png"/>
+    <resourceEntry destPath="flexlib/assets/assets.fla" sourcePath="flexlib/assets/assets.fla"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/closeButton.png" sourcePath="flexlib/mdi/assets/img/closeButton.png"/>
+    <resourceEntry destPath="flexlib/controls/ScrollableMenu.png" sourcePath="flexlib/controls/ScrollableMenu.png"/>
+    <resourceEntry destPath="flexlib/controls/iconLoaderClasses/assets/Assets.fla" sourcePath="flexlib/controls/iconLoaderClasses/assets/Assets.fla"/>
+    <resourceEntry destPath="flexlib/controls/ScrollableArrowMenu.png" sourcePath="flexlib/controls/ScrollableArrowMenu.png"/>
+    <resourceEntry destPath="flexlib/containers/DragScrollingCanvas.png" sourcePath="flexlib/containers/DragScrollingCanvas.png"/>
+    <resourceEntry destPath="flexlib/controls/ConvertibleTreeList.png" sourcePath="flexlib/controls/ConvertibleTreeList.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeCursorTRBL.gif" sourcePath="flexlib/mdi/assets/img/resizeCursorTRBL.gif"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeHandler.png" sourcePath="flexlib/mdi/assets/img/resizeHandler.png"/>
+    <resourceEntry destPath="flexlib/containers/VAccordion.png" sourcePath="flexlib/containers/VAccordion.png"/>
+    <resourceEntry destPath="flexlib/controls/VerticalMenuBar.png" sourcePath="flexlib/controls/VerticalMenuBar.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeCursorVH.gif" sourcePath="flexlib/mdi/assets/img/resizeCursorVH.gif"/>
+    <resourceEntry destPath="flexlib/assets/assets.swf" sourcePath="flexlib/assets/assets.swf"/>
+    <resourceEntry destPath="flexlib/controls/iconLoaderClasses/assets/Assets.swf" sourcePath="flexlib/controls/iconLoaderClasses/assets/Assets.swf"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeCursorTLBR.gif" sourcePath="flexlib/mdi/assets/img/resizeCursorTLBR.gif"/>
+    <resourceEntry destPath="flexlib/assets/defaultTreeAssets.swf" sourcePath="flexlib/assets/defaultTreeAssets.swf"/>
+    <resourceEntry destPath="flexlib/controls/ImageMap.png" sourcePath="flexlib/controls/ImageMap.png"/>
+    <resourceEntry destPath="flexlib/containers/AdvancedForm.png" sourcePath="flexlib/containers/AdvancedForm.png"/>
+    <resourceEntry destPath="flexlib/controls/ScrollablePopUpMenuButton.png" sourcePath="flexlib/controls/ScrollablePopUpMenuButton.png"/>
+    <resourceEntry destPath="flexlib/mdi/assets/img/resizeCursorH.gif" sourcePath="flexlib/mdi/assets/img/resizeCursorH.gif"/>
+  </includeResources>
+  <namespaceManifests>
+    <namespaceManifestEntry manifest="manifest.xml" namespace="http://code.google.com/p/flexlib/2010/"/>
+  </namespaceManifests>
+</flexLibProperties>
